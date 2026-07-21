@@ -10,7 +10,7 @@ Built on a **custom-trained YOLO object-detection model** — not a pretrained o
 
 ## 📸 Screenshot
 
-![App screenshot](screenshot.png)
+![App screenshot](screenshot.PNG)
 
 ## 🛠️ Tech Stack
 
